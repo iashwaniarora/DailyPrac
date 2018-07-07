@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AbstractFactory.iml" filepath="$PROJECT_DIR$/.idea/modules/AbstractFactory.iml" group="DesignPatterns/AbstractFactory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatterns/AbstractFactory/AbstractFactory_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatterns/AbstractFactory/AbstractFactory_main.iml" group="DesignPatterns/AbstractFactory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatterns/AbstractFactory/AbstractFactory_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatterns/AbstractFactory/AbstractFactory_test.iml" group="DesignPatterns/AbstractFactory" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DailyPrac.iml" filepath="$PROJECT_DIR$/.idea/modules/DailyPrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DailyPrac_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DailyPrac_main.iml" group="DailyPrac" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DailyPrac_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DailyPrac_test.iml" group="DailyPrac" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatterns/DesignPatterns.iml" group="DesignPatterns" />
+    </modules>
+  </component>
+</project>
