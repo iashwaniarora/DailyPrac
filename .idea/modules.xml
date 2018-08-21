@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DailyPrac_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DailyPrac_main.iml" group="DailyPrac" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DailyPrac_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DailyPrac_test.iml" group="DailyPrac" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/modules/DesignPatterns/DesignPatterns.iml" group="DesignPatterns" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/Hibernate.iml" group="Hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hibernate/Hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hibernate/Hibernate_main.iml" group="Hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hibernate/Hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Hibernate/Hibernate_test.iml" group="Hibernate" />
     </modules>
   </component>
 </project>

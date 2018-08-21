@@ -1,4 +1,5 @@
 rootProject.name = 'DailyPrac'
 include 'DesignPatterns:AbstractFactory'
 findProject(':DesignPatterns:AbstractFactory')?.name = 'AbstractFactory'
+include 'Hibernate'
 

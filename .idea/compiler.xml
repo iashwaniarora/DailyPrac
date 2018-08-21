@@ -6,6 +6,8 @@
       <module name="AbstractFactory_test" target="1.8" />
       <module name="DailyPrac_main" target="1.8" />
       <module name="DailyPrac_test" target="1.8" />
+      <module name="Hibernate_main" target="1.8" />
+      <module name="Hibernate_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
