@@ -11,6 +11,8 @@
         <property name="show_sql">true</property>
         <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="hibernate.hbm2ddl.auto">update</property>
+
         <mapping class="com.ash.entity.Person"/>
+        <mapping class="com.ash.entity.PhoneNumber"/>
     </session-factory>
 </hibernate-configuration>
